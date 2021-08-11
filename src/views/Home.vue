@@ -17,15 +17,15 @@
             <v-row>
                 <v-col cols="8">
                     <v-form style="background:#252525;" class="pa-3">
-                <h2 class="white--text">Registro</h2>
-                <div class="d-inline-flex">
-                    <v-text-field label="Name" class="mx-1" v-model="currentEdit.name" dark></v-text-field>
-                    <v-text-field label="Avatar (URL)" class="mx-1" v-model="currentEdit.avatar" dark></v-text-field>
-                </div>
-                <v-textarea label="Description" no-resize v-model="currentEdit.desc" dark/>
-                <v-switch v-model="currentEdit.hasContact" label="Do you want people to contact you?" dark></v-switch>
-                <v-btn dark @click="pushInfo">Enviar</v-btn>
-            </v-form>
+                        <h2 class="white--text">Registro</h2>
+                        <div class="d-inline-flex">
+                            <v-text-field label="Name" class="mx-1" v-model="currentEdit.name" dark></v-text-field>
+                            <v-text-field label="Avatar (URL)" class="mx-1" v-model="currentEdit.avatar" dark></v-text-field>
+                        </div>
+                        <v-textarea label="Description" no-resize v-model="currentEdit.desc" dark/>
+                        <v-switch v-model="currentEdit.hasContact" label="Do you want people to contact you?" dark></v-switch>
+                        <v-btn dark @click="pushInfo">Enviar</v-btn>
+                    </v-form>
                 </v-col>
             </v-row>
         </div>
