@@ -4,7 +4,7 @@
         <v-divider dark class="my-2"></v-divider>
         <div class="pb-2"> 
             <h3 class="white--text text-left">Top Today</h3>
-            <div class="d-flex flex-row nigga" style="overflow-x:auto;">
+            <div class="d-flex flex-row" style="overflow-x:auto;">
              <div v-for="items, index of users" :key="index" class="mx-1 pa-2 rounded d-flex flex-column" style="background:#252525; width:200px; min-width:200px">
                  <v-avatar size="100" class="align-self-center"><v-img :src="photos[index]"/></v-avatar>
                  <p class="white--text text-left text-h5 my-1">{{items.name}}</p>

@@ -1,6 +1,6 @@
 <template>
     <v-navigation-drawer app dark>
-      <v-btn color="alert">Pendejo de mierda</v-btn>
+      <v-btn color="alert">drawTemp</v-btn>
     </v-navigation-drawer>
 </template>
 
