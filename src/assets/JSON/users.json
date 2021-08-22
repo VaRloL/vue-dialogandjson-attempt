@@ -1,0 +1,31 @@
+[{
+    "name":"Phoenix Wright",
+    "avatar":"https://cdn.discordapp.com/attachments/798228676553867277/873778609255493642/unknown.png",
+    "desc":"Skilled (and sexy) lawyer, pretty good at his job",
+    "hasContact":true
+},
+{
+    "name": "Creisi",
+    "avatar":"https://i.imgflip.com/4iqmth.png",
+    "desc":"Likes fruit, likes your mom and also likes themselves",
+    "hasContact":false
+},
+{
+    "name": "Akko",
+    "avatar":"https://cdn.discordapp.com/avatars/484158363475771413/5a9d32d919c68de2859552a4950a7897.png?size=512",
+    "desc":"Pretty dumb, but still lovable, always a good thing to hang out with her",
+    "hasContact":false
+},
+{
+    "name":"Maya",
+    "avatar":"https://cdn.discordapp.com/attachments/798228676553867277/873778780370534401/E8N5y5WUYAEMZJO.png",
+    "desc":"Loves burgers, loves Nick and also loves me (webdev)",
+    "hasContact":false
+},
+{
+    "name":"Tony",
+    "avatar":"https://cdn.discordapp.com/attachments/798228676553867277/875202486728806441/250.png",
+    "desc":"Draws furry porn, what a legend",
+    "hasContact":true
+}
+]
